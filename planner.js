@@ -1,4 +1,4 @@
-import plan from './plan';
+import plan from './plan.json';
 
 const errors = {
     TOO_MANY_GUESTS: "TOO_MANY_GUESTS",

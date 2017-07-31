@@ -1,0 +1,11 @@
+{
+  "name": "EventSeater",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
